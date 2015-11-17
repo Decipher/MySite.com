@@ -1,5 +1,5 @@
- libraries
- modules/*
- !modules/custom 
+libraries
+modules/*
+!modules/custom
 themes/*
- !themes/custom
+!themes/custom
