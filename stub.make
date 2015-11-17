@@ -14,4 +14,4 @@ projects[drupal][version] = 7.41
 
 projects[mysite][type] = profile
 projects[mysite][download][type] = git
-projects[mysite][download][url] = git@github.com:Decipher/mysite.com.git
+projects[mysite][download][url] = https://github.com/Decipher/mysite.com.git
